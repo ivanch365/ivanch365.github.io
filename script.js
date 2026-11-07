@@ -27,7 +27,7 @@ if (menuToggle && navLinks) {
 
 // Reveal elements as they enter the viewport
 const revealElements = document.querySelectorAll(
-  ".hero-copy, .hero-art, .focus-card, .project-card, .skill-column, .contact-inner"
+  ".hero-copy, .hero-photo, .focus-card, .project-card, .skill-column, .contact-inner"
 );
 
 revealElements.forEach((element) => {
